@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MONGO_USER": "your-username",
+        "MONGO_PASSWORD": "your-password",
+        "MONGO_DB": "your-db-name",
+        "PORT": "4000",
+        "NODE_ENV": "development",
+        "DB_USER": "mongodb://localhost:27017/Todo"
+    }
+}
